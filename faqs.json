@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "What is RaiDOT?",
+    "answer": "RaiDOT (Responsible AI, Insightful Data, Operational Trust) is an intelligent tool designed to evaluate the operational assurance of AI systems, focusing on the postoperative risks of AI-enabled SMEs."
+  },
+  {
+    "id": 2,
+    "question": "Why is RaiDOT needed?",
+    "answer": "AI systems can be vulnerable to cyberattacks, privacy concerns, and ethical risks. RaiDOT helps SMEs assess and manage these risks to ensure responsible and transparent AI usage."
+  },
+  {
+    "id": 3,
+    "question": "How does RaiDOT evaluate AI assurance?",
+    "answer": "RaiDOT uses AI assurance and risk management frameworks, including the NIST AI RMF 1.0 and the EU AI Act, to assess and evaluate the level of operational assurance in AI-enabled SMEs."
+  },
+  {
+    "id": 4,
+    "question": "Who will benefit from RaiDOT?",
+    "answer": "RaiDOT primarily benefits SMEs by helping them manage AI-related risks. Additionally, it contributes to economic growth, social benefits, and the ethical use of AI in the UK."
+  },
+  {
+    "id": 5,
+    "question": "What is the first phase of the RaiDOT project?",
+    "answer": "The first phase of RaiDOT involves developing a web-based evaluation tool that will identify, analyze, and assess AI assurance risks for SMEs based on regulatory frameworks."
+  }
+]
