@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 import axios from "axios";
-import FAQList from "./FAQList"; // Adjust the import path as needed
+import FAQList from "./FAQList";
 
 function ChatInterface() {
   const [messages, setMessages] = useState([]);

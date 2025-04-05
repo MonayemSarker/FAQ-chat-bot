@@ -46,7 +46,7 @@ def search_faqs(query: str):
     faqs = load_faqs()
     results = [
         faq for faq in faqs
-        if query.lower() in faq['question'].lower() or query.lower() in faq['answer'].lower()
+        if query.lower() in faq['question'].lower()
     ]
     return results
 
